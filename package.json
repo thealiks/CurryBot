@@ -1,0 +1,10 @@
+{
+	"name": "CurryBot",
+	"version": "1.0.0",
+	"description": "boiledcurry bot",
+	"main": "bot.js",
+	"author": "Alex Singh",
+	"dependencies": {
+		"discord.js": "^11.4.2"
+	}
+}
